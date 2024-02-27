@@ -1,3 +1,4 @@
 pymysql
 cryptography
 plotly==5.19.0
+streamlit
